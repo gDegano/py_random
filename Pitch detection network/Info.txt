@@ -1,0 +1,3 @@
+Files:
+
+pitch_test_tut : tutorial from https://github.com/keunwoochoi/dl4mir/blob/master/Example%201%20-%20a%20pitch%20detection%20network%20with%20Dense%20layers.ipynb
